@@ -3,7 +3,7 @@
 Topic-wise LeetCode solutions with approach notes and time/space complexity analysis. Focused on patterns relevant to embedded systems and core CS fundamentals.
 
 ![Language](https://img.shields.io/badge/language-C-blue)
-![Problems Solved](https://img.shields.io/badge/solved-2-brightgreen)
+![Problems Solved](https://img.shields.io/badge/solved-4-brightgreen)
 ![Topics](https://img.shields.io/badge/topics-1-orange)
 
 ---
@@ -16,7 +16,7 @@ Topic-wise LeetCode solutions with approach notes and time/space complexity anal
 | Easy | 2 |
 | Medium | 2 |
 | Hard | 0 |
-| Topics Covered | 2 |
+| Topics Covered | 1 |
 
 ---
 
