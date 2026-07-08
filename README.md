@@ -12,23 +12,25 @@ Topic-wise LeetCode solutions with approach notes and time/space complexity anal
 
 | Metric | Count |
 |---|---|
-| Total Solved | 2 |
+| Total Solved | 4 |
 | Easy | 2 |
-| Medium | 0 |
+| Medium | 2 |
 | Hard | 0 |
-| Topics Covered | 1 |
+| Topics Covered | 2 |
 
 ---
 
 ## Problems by Topic
 
 <details>
-<summary><b>Bit Manipulation (2/13)</b></summary>
+<summary><b>Bit Manipulation (4/13)</b></summary>
 
 | Problem | Difficulty | Solution |
 |---|---|---|
-| Single Number | Easy | [Link](bit-manipulation/single-number) |
 | Add Binary | Easy | [Link](bit-manipulation/add-binary) |
+| Single Number | Easy | [Link](bit-manipulation/single-number) |
+| Single Number II | Medium | [Link](bit-manipulation/single-number-ii) |
+| Single Number III | Medium | [Link](bit-manipulation/single-number-iii) |
 
 </details>
 
