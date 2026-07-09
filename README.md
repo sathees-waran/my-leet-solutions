@@ -3,8 +3,8 @@
 Topic-wise LeetCode solutions with approach notes and time/space complexity analysis. Focused on patterns relevant to embedded systems and core CS fundamentals.
 
 ![Language](https://img.shields.io/badge/language-C-blue)
-![Problems Solved](https://img.shields.io/badge/solved-4-brightgreen)
-![Topics](https://img.shields.io/badge/topics-1-orange)
+![Problems Solved](https://img.shields.io/badge/solved-6-brightgreen)
+![Topics](https://img.shields.io/badge/topics-2-orange)
 
 ---
 
@@ -12,11 +12,11 @@ Topic-wise LeetCode solutions with approach notes and time/space complexity anal
 
 | Metric | Count |
 |---|---|
-| Total Solved | 4 |
-| Easy | 2 |
+| Total Solved | 6 |
+| Easy | 4 |
 | Medium | 2 |
 | Hard | 0 |
-| Topics Covered | 1 |
+| Topics Covered | 2 |
 
 ---
 
@@ -37,7 +37,10 @@ Topic-wise LeetCode solutions with approach notes and time/space complexity anal
 <details>
 <summary><b>Arrays</b></summary>
 
-_Coming soon_
+| Problem | Difficulty | Solution |
+|---|---|---|
+| Merge sorted array | Easy | [Link](Array/merge-sorted-array) |
+| Remove element | Easy | [Link](Array/remove-element) |
 
 </details>
 
