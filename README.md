@@ -23,7 +23,7 @@ Topic-wise LeetCode solutions with approach notes and time/space complexity anal
 ## Problems by Topic
 
 <details>
-<summary><b>Bit Manipulation (4/13)</b></summary>
+<summary><b>Bit Manipulation (4)</b></summary>
 
 | Problem | Difficulty | Solution |
 |---|---|---|
@@ -35,12 +35,12 @@ Topic-wise LeetCode solutions with approach notes and time/space complexity anal
 </details>
 
 <details>
-<summary><b>Arrays</b></summary>
+<summary><b>Arrays (2)</b></summary>
 
 | Problem | Difficulty | Solution |
 |---|---|---|
-| Merge sorted array | Easy | [Link](Array/merge-sorted-array) |
-| Remove element | Easy | [Link](Array/remove-element) |
+| Merge sorted array | Easy | [Link](array/merge-sorted-array) |
+| Remove element | Easy | [Link](array/remove-element) |
 
 </details>
 
