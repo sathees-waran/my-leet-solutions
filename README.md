@@ -23,7 +23,7 @@ Topic-wise LeetCode solutions with approach notes and time/space complexity anal
 ## Problems by Topic
 
 <details>
-<summary><b>Bit Manipulation (4)</b></summary>
+<summary><b>Bit Manipulation (6)</b></summary>
 
 | Problem | Difficulty | Solution |
 |---|---|---|
