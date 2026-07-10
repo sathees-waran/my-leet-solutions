@@ -3,7 +3,7 @@
 Topic-wise LeetCode solutions with approach notes and time/space complexity analysis. Focused on patterns relevant to embedded systems and core CS fundamentals.
 
 ![Language](https://img.shields.io/badge/language-C-blue)
-![Problems Solved](https://img.shields.io/badge/solved-8-brightgreen)
+![Problems Solved](https://img.shields.io/badge/solved-10-brightgreen)
 ![Topics](https://img.shields.io/badge/topics-2-orange)
 
 ---
@@ -12,11 +12,11 @@ Topic-wise LeetCode solutions with approach notes and time/space complexity anal
 
 | Metric | Count |
 |---|---|
-| Total Solved | 8 |
-| Easy | 5 |
+| Total Solved | 10 |
+| Easy | 7 |
 | Medium | 3 |
 | Hard | 0 |
-| Topics Covered | 2 |
+| Topics Covered | 3 |
 
 ---
 
@@ -48,9 +48,12 @@ Topic-wise LeetCode solutions with approach notes and time/space complexity anal
 </details>
 
 <details>
-<summary><b>Strings</b></summary>
+<summary><b>Strings (2)</b></summary>
 
-_Coming soon_
+| Problem | Difficulty | Solution |
+|---|---|---|
+| Roman to Integer | Easy | [Link](string/roman-to-integer) |
+| Longest Common Prefix | Easy | [Link](string/longest-common-prefix) |
 
 </details>
 
