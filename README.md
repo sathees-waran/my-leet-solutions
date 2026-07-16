@@ -3,7 +3,7 @@
 Topic-wise LeetCode solutions with approach notes and time/space complexity analysis. Focused on patterns relevant to embedded systems and core CS fundamentals.
 
 ![Language](https://img.shields.io/badge/language-C-blue)
-![Problems Solved](https://img.shields.io/badge/solved-12-brightgreen)
+![Problems Solved](https://img.shields.io/badge/solved-14-brightgreen)
 ![Topics](https://img.shields.io/badge/topics-3-orange)
 
 ---
@@ -12,8 +12,8 @@ Topic-wise LeetCode solutions with approach notes and time/space complexity anal
 
 | Metric | Count |
 |---|---|
-| Total Solved | 10 |
-| Easy | 7 |
+| Total Solved | 14 |
+| Easy | 9 |
 | Medium | 5 |
 | Hard | 0 |
 | Topics Covered | 3 |
@@ -23,13 +23,15 @@ Topic-wise LeetCode solutions with approach notes and time/space complexity anal
 ## Problems by Topic
 
 <details>
-<summary><b>Bit Manipulation (6)</b></summary>
+<summary><b>Bit Manipulation (8)</b></summary>
 
 | Problem | Difficulty | Solution |
 |---|---|---|
 | Add Binary | Easy | [Link](bit-manipulation/add-binary) |
 | Reverse Bits | Easy | [Link](bit-manipulation/reverse-bits) |
 | Single Number | Easy | [Link](bit-manipulation/single-number) |
+| Power of Two | Easy | [Link](bit-manipulation/power-of-two) |
+| Power of Four | Easy | [Link](bit-manipulation/power-of-four) |
 | Single Number II | Medium | [Link](bit-manipulation/single-number-ii) |
 | Single Number III | Medium | [Link](bit-manipulation/single-number-iii) |
 | Bitwise AND of Numbers Range | Medium | [Link](bit-manipulation/bitwise-and-of-numbers-range) |
