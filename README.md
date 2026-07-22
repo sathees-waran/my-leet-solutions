@@ -3,7 +3,7 @@
 Topic-wise LeetCode solutions with approach notes and time/space complexity analysis. Focused on patterns relevant to embedded systems and core CS fundamentals.
 
 ![Language](https://img.shields.io/badge/language-C-blue)
-![Problems Solved](https://img.shields.io/badge/solved-14-brightgreen)
+![Problems Solved](https://img.shields.io/badge/solved-16-brightgreen)
 ![Topics](https://img.shields.io/badge/topics-3-orange)
 
 ---
@@ -12,9 +12,9 @@ Topic-wise LeetCode solutions with approach notes and time/space complexity anal
 
 | Metric | Count |
 |---|---|
-| Total Solved | 14 |
-| Easy | 9 |
-| Medium | 5 |
+| Total Solved | 16 |
+| Easy | 10 |
+| Medium | 6 |
 | Hard | 0 |
 | Topics Covered | 3 |
 
@@ -23,7 +23,7 @@ Topic-wise LeetCode solutions with approach notes and time/space complexity anal
 ## Problems by Topic
 
 <details>
-<summary><b>Bit Manipulation (8)</b></summary>
+<summary><b>Bit Manipulation (10)</b></summary>
 
 | Problem | Difficulty | Solution |
 |---|---|---|
@@ -32,10 +32,11 @@ Topic-wise LeetCode solutions with approach notes and time/space complexity anal
 | Single Number | Easy | [Link](bit-manipulation/single-number) |
 | Power of Two | Easy | [Link](bit-manipulation/power-of-two) |
 | Power of Four | Easy | [Link](bit-manipulation/power-of-four) |
+| Number of 1 Bits | Easy | [Link](bit-manipulation/number-of-1-bits) |
 | Single Number II | Medium | [Link](bit-manipulation/single-number-ii) |
 | Single Number III | Medium | [Link](bit-manipulation/single-number-iii) |
 | Bitwise AND of Numbers Range | Medium | [Link](bit-manipulation/bitwise-and-of-numbers-range) |
-
+| Divide Two Integers | Medium | [Link](bit-manipulation/divide-two-integers) |
 
 </details>
 
