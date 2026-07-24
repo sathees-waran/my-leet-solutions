@@ -3,7 +3,7 @@
 Topic-wise LeetCode solutions with approach notes and time/space complexity analysis. Focused on patterns relevant to embedded systems and core CS fundamentals.
 
 ![Language](https://img.shields.io/badge/language-C-blue)
-![Problems Solved](https://img.shields.io/badge/solved-16-brightgreen)
+![Problems Solved](https://img.shields.io/badge/solved-18-brightgreen)
 ![Topics](https://img.shields.io/badge/topics-3-orange)
 
 ---
@@ -12,8 +12,8 @@ Topic-wise LeetCode solutions with approach notes and time/space complexity anal
 
 | Metric | Count |
 |---|---|
-| Total Solved | 16 |
-| Easy | 10 |
+| Total Solved | 18 |
+| Easy | 12 |
 | Medium | 6 |
 | Hard | 0 |
 | Topics Covered | 3 |
@@ -51,12 +51,14 @@ Topic-wise LeetCode solutions with approach notes and time/space complexity anal
 </details>
 
 <details>
-<summary><b>Strings (4)</b></summary>
+<summary><b>Strings (6)</b></summary>
 
 | Problem | Difficulty | Solution |
 |---|---|---|
 | Roman to Integer | Easy | [Link](string/roman-to-integer) |
 | Longest Common Prefix | Easy | [Link](string/longest-common-prefix) |
+| Find the Index of the First Occurrence in a String | Easy | [Link](string/find-the-index-of-the-first-occurrence-in-a-string) |
+| Length of Last Word | Easy | [Link](string/length-of-last-word) |
 | Reverse Words in a String | Medium | [Link](string/reverse-words-in-a-string) |
 | Integer to Roman | Medium | [Link](string/integer-to-roman) |
 
