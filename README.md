@@ -3,7 +3,7 @@
 Topic-wise LeetCode solutions with approach notes and time/space complexity analysis. Focused on patterns relevant to embedded systems and core CS fundamentals.
 
 ![Language](https://img.shields.io/badge/language-C-blue)
-![Problems Solved](https://img.shields.io/badge/solved-18-brightgreen)
+![Problems Solved](https://img.shields.io/badge/solved-22-brightgreen)
 ![Topics](https://img.shields.io/badge/topics-3-orange)
 
 ---
@@ -12,9 +12,9 @@ Topic-wise LeetCode solutions with approach notes and time/space complexity anal
 
 | Metric | Count |
 |---|---|
-| Total Solved | 18 |
-| Easy | 12 |
-| Medium | 6 |
+| Total Solved | 22 |
+| Easy | 14 |
+| Medium | 8 |
 | Hard | 0 |
 | Topics Covered | 3 |
 
@@ -41,12 +41,16 @@ Topic-wise LeetCode solutions with approach notes and time/space complexity anal
 </details>
 
 <details>
-<summary><b>Arrays (2)</b></summary>
+<summary><b>Arrays (6)</b></summary>
 
 | Problem | Difficulty | Solution |
 |---|---|---|
 | Merge sorted array | Easy | [Link](array/merge-sorted-array) |
 | Remove element | Easy | [Link](array/remove-element) |
+| Plus One | Easy | [Link](array/plus-one) |
+| Remove Duplicates from Sorted Array | Easy | [Link](array/remove-duplicates-from-sorted-array) |
+| Remove Duplicates from Sorted Array II | Medium | [Link](array/remove-duplicates-from-sorted-array-ii) |
+| Jump Game | Medium | [Link](array/jump-game) |
 
 </details>
 
