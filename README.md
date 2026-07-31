@@ -3,7 +3,7 @@
 Topic-wise LeetCode solutions with approach notes and time/space complexity analysis. Focused on patterns relevant to embedded systems and core CS fundamentals.
 
 ![Language](https://img.shields.io/badge/language-C-blue)
-![Problems Solved](https://img.shields.io/badge/solved-22-brightgreen)
+![Problems Solved](https://img.shields.io/badge/solved-24-brightgreen)
 ![Topics](https://img.shields.io/badge/topics-3-orange)
 
 ---
@@ -12,9 +12,9 @@ Topic-wise LeetCode solutions with approach notes and time/space complexity anal
 
 | Metric | Count |
 |---|---|
-| Total Solved | 22 |
-| Easy | 14 |
-| Medium | 8 |
+| Total Solved | 24 |
+| Easy | 15 |
+| Medium | 9 |
 | Hard | 0 |
 | Topics Covered | 3 |
 
@@ -41,7 +41,7 @@ Topic-wise LeetCode solutions with approach notes and time/space complexity anal
 </details>
 
 <details>
-<summary><b>Arrays (6)</b></summary>
+<summary><b>Arrays (8)</b></summary>
 
 | Problem | Difficulty | Solution |
 |---|---|---|
@@ -49,8 +49,10 @@ Topic-wise LeetCode solutions with approach notes and time/space complexity anal
 | Remove element | Easy | [Link](array/remove-element) |
 | Plus One | Easy | [Link](array/plus-one) |
 | Remove Duplicates from Sorted Array | Easy | [Link](array/remove-duplicates-from-sorted-array) |
+| Best Time to Buy and Sell Stock | Easy | [Link](array/best-time-to-buy-and-sell-stock) |
 | Remove Duplicates from Sorted Array II | Medium | [Link](array/remove-duplicates-from-sorted-array-ii) |
 | Jump Game | Medium | [Link](array/jump-game) |
+| Best Time to Buy and Sell Stock II | Medium | [Link](array/best-time-to-buy-and-sell-stock-ii) |
 
 </details>
 
