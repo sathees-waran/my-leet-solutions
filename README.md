@@ -3,7 +3,7 @@
 Topic-wise LeetCode solutions with approach notes and time/space complexity analysis. Focused on patterns relevant to embedded systems and core CS fundamentals.
 
 ![Language](https://img.shields.io/badge/language-C-blue)
-![Problems Solved](https://img.shields.io/badge/solved-28-brightgreen)
+![Problems Solved](https://img.shields.io/badge/solved-30-brightgreen)
 ![Topics](https://img.shields.io/badge/topics-3-orange)
 
 ---
@@ -12,8 +12,8 @@ Topic-wise LeetCode solutions with approach notes and time/space complexity anal
 
 | Metric | Count |
 |---|---|
-| Total Solved | 28 |
-| Easy | 18 |
+| Total Solved | 30 |
+| Easy | 20 |
 | Medium | 10 |
 | Hard | 0 |
 | Topics Covered | 3 |
@@ -23,7 +23,7 @@ Topic-wise LeetCode solutions with approach notes and time/space complexity anal
 ## Problems by Topic
 
 <details>
-<summary><b>Bit Manipulation (12)</b></summary>
+<summary><b>Bit Manipulation (14)</b></summary>
 
 | Problem | Difficulty | Solution |
 |---|---|---|
@@ -35,6 +35,8 @@ Topic-wise LeetCode solutions with approach notes and time/space complexity anal
 | Number of 1 Bits | Easy | [Link](bit-manipulation/number-of-1-bits) |
 | Missing Number | Easy | [Link](bit-manipulation/missing-number) |
 | Counting Bits | Easy | [Link](bit-manipulation/counting-bits) |
+| Find the Difference | Easy | [Link](string/find-the-difference) |
+| Convert a Number to Hexadecimal | Easy | [Link](bit-manipulation/convert-a-number-to-hexadecimal) |
 | Single Number II | Medium | [Link](bit-manipulation/single-number-ii) |
 | Single Number III | Medium | [Link](bit-manipulation/single-number-iii) |
 | Bitwise AND of Numbers Range | Medium | [Link](bit-manipulation/bitwise-and-of-numbers-range) |
