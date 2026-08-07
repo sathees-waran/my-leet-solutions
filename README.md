@@ -3,7 +3,7 @@
 Topic-wise LeetCode solutions with approach notes and time/space complexity analysis. Focused on patterns relevant to embedded systems and core CS fundamentals.
 
 ![Language](https://img.shields.io/badge/language-C-blue)
-![Problems Solved](https://img.shields.io/badge/solved-30-brightgreen)
+![Problems Solved](https://img.shields.io/badge/solved-32-brightgreen)
 ![Topics](https://img.shields.io/badge/topics-3-orange)
 
 ---
@@ -12,8 +12,8 @@ Topic-wise LeetCode solutions with approach notes and time/space complexity anal
 
 | Metric | Count |
 |---|---|
-| Total Solved | 30 |
-| Easy | 20 |
+| Total Solved | 32 |
+| Easy | 22 |
 | Medium | 10 |
 | Hard | 0 |
 | Topics Covered | 3 |
@@ -23,7 +23,7 @@ Topic-wise LeetCode solutions with approach notes and time/space complexity anal
 ## Problems by Topic
 
 <details>
-<summary><b>Bit Manipulation (14)</b></summary>
+<summary><b>Bit Manipulation (16)</b></summary>
 
 | Problem | Difficulty | Solution |
 |---|---|---|
@@ -33,6 +33,8 @@ Topic-wise LeetCode solutions with approach notes and time/space complexity anal
 | Power of Two | Easy | [Link](bit-manipulation/power-of-two) |
 | Power of Four | Easy | [Link](bit-manipulation/power-of-four) |
 | Number of 1 Bits | Easy | [Link](bit-manipulation/number-of-1-bits) |
+| Hamming Distance | Easy | [Link](bit-manipulation/hamming-distance) |
+| Number Complement | Easy | [Link](bit-manipulation/number-complement) |
 | Missing Number | Easy | [Link](bit-manipulation/missing-number) |
 | Counting Bits | Easy | [Link](bit-manipulation/counting-bits) |
 | Find the Difference | Easy | [Link](string/find-the-difference) |
