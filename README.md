@@ -3,7 +3,7 @@
 Topic-wise LeetCode solutions with approach notes and time/space complexity analysis. Focused on patterns relevant to embedded systems and core CS fundamentals.
 
 ![Language](https://img.shields.io/badge/language-C-blue)
-![Problems Solved](https://img.shields.io/badge/solved-34-brightgreen)
+![Problems Solved](https://img.shields.io/badge/solved-36-brightgreen)
 ![Topics](https://img.shields.io/badge/topics-3-orange)
 
 ---
@@ -12,8 +12,8 @@ Topic-wise LeetCode solutions with approach notes and time/space complexity anal
 
 | Metric | Count |
 |---|---|
-| Total Solved | 34 |
-| Easy | 24 |
+| Total Solved | 36 |
+| Easy | 26 |
 | Medium | 10 |
 | Hard | 0 |
 | Topics Covered | 3 |
@@ -23,7 +23,7 @@ Topic-wise LeetCode solutions with approach notes and time/space complexity anal
 ## Problems by Topic
 
 <details>
-<summary><b>Bit Manipulation (18)</b></summary>
+<summary><b>Bit Manipulation (20)</b></summary>
 
 | Problem | Difficulty | Solution |
 |---|---|---|
@@ -41,6 +41,8 @@ Topic-wise LeetCode solutions with approach notes and time/space complexity anal
 | Convert a Number to Hexadecimal | Easy | [Link](bit-manipulation/convert-a-number-to-hexadecimal) |
 | Binary Number with Alternating Bits | Easy | [Link](bit-manipulation/binary-number-with-alternating-bits) |
 | Prime Number of Set Bits in Binary Representation | Easy | [Link](bit-manipulation/prime-number-of-set-bits-in-binary-representation) |
+| Flip and Invert Image | Easy | [Link](bit-manipulation/flip-and-invert-image) |
+| Binary Gap | Easy | [Link](bit-manipulation/binary-gap) |
 | Single Number II | Medium | [Link](bit-manipulation/single-number-ii) |
 | Single Number III | Medium | [Link](bit-manipulation/single-number-iii) |
 | Bitwise AND of Numbers Range | Medium | [Link](bit-manipulation/bitwise-and-of-numbers-range) |
