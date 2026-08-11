@@ -3,7 +3,7 @@
 Topic-wise LeetCode solutions with approach notes and time/space complexity analysis. Focused on patterns relevant to embedded systems and core CS fundamentals.
 
 ![Language](https://img.shields.io/badge/language-C-blue)
-![Problems Solved](https://img.shields.io/badge/solved-36-brightgreen)
+![Problems Solved](https://img.shields.io/badge/solved-38-brightgreen)
 ![Topics](https://img.shields.io/badge/topics-3-orange)
 
 ---
@@ -12,8 +12,8 @@ Topic-wise LeetCode solutions with approach notes and time/space complexity anal
 
 | Metric | Count |
 |---|---|
-| Total Solved | 36 |
-| Easy | 26 |
+| Total Solved | 38 |
+| Easy | 28 |
 | Medium | 10 |
 | Hard | 0 |
 | Topics Covered | 3 |
@@ -23,7 +23,7 @@ Topic-wise LeetCode solutions with approach notes and time/space complexity anal
 ## Problems by Topic
 
 <details>
-<summary><b>Bit Manipulation (20)</b></summary>
+<summary><b>Bit Manipulation (22)</b></summary>
 
 | Problem | Difficulty | Solution |
 |---|---|---|
@@ -43,6 +43,8 @@ Topic-wise LeetCode solutions with approach notes and time/space complexity anal
 | Prime Number of Set Bits in Binary Representation | Easy | [Link](bit-manipulation/prime-number-of-set-bits-in-binary-representation) |
 | Flip and Invert Image | Easy | [Link](bit-manipulation/flip-and-invert-image) |
 | Binary Gap | Easy | [Link](bit-manipulation/binary-gap) |
+| Complement of Base 10 Integer | Easy | [Link](bit-manipulation/complement-of-base-10-integer) |
+| Binary Prefix Divisible By 5 | Easy | [Link](bit-manipulation/binary-prefix-divisible-by-5) |
 | Single Number II | Medium | [Link](bit-manipulation/single-number-ii) |
 | Single Number III | Medium | [Link](bit-manipulation/single-number-iii) |
 | Bitwise AND of Numbers Range | Medium | [Link](bit-manipulation/bitwise-and-of-numbers-range) |
