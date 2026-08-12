@@ -3,7 +3,7 @@
 Topic-wise LeetCode solutions with approach notes and time/space complexity analysis. Focused on patterns relevant to embedded systems and core CS fundamentals.
 
 ![Language](https://img.shields.io/badge/language-C-blue)
-![Problems Solved](https://img.shields.io/badge/solved-38-brightgreen)
+![Problems Solved](https://img.shields.io/badge/solved-40-brightgreen)
 ![Topics](https://img.shields.io/badge/topics-3-orange)
 
 ---
@@ -12,8 +12,8 @@ Topic-wise LeetCode solutions with approach notes and time/space complexity anal
 
 | Metric | Count |
 |---|---|
-| Total Solved | 38 |
-| Easy | 28 |
+| Total Solved | 40 |
+| Easy | 30 |
 | Medium | 10 |
 | Hard | 0 |
 | Topics Covered | 3 |
@@ -23,7 +23,7 @@ Topic-wise LeetCode solutions with approach notes and time/space complexity anal
 ## Problems by Topic
 
 <details>
-<summary><b>Bit Manipulation (22)</b></summary>
+<summary><b>Bit Manipulation (24)</b></summary>
 
 | Problem | Difficulty | Solution |
 |---|---|---|
@@ -45,6 +45,8 @@ Topic-wise LeetCode solutions with approach notes and time/space complexity anal
 | Binary Gap | Easy | [Link](bit-manipulation/binary-gap) |
 | Complement of Base 10 Integer | Easy | [Link](bit-manipulation/complement-of-base-10-integer) |
 | Binary Prefix Divisible By 5 | Easy | [Link](bit-manipulation/binary-prefix-divisible-by-5) |
+| Number of Steps to Reduce a Number to Zero | Easy | [Link](bit-manipulation/number-of-steps-to-reduce-a-number-to-zero) |
+| Sort Integers by The Number of 1 Bits | Easy | [Link](bit-manipulation/sort-integers-by-the-number-of-1-bits) |
 | Single Number II | Medium | [Link](bit-manipulation/single-number-ii) |
 | Single Number III | Medium | [Link](bit-manipulation/single-number-iii) |
 | Bitwise AND of Numbers Range | Medium | [Link](bit-manipulation/bitwise-and-of-numbers-range) |
