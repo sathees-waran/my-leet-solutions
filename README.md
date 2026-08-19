@@ -3,8 +3,8 @@
 Topic-wise LeetCode solutions with approach notes and time/space complexity analysis. Focused on patterns relevant to embedded systems and core CS fundamentals.
 
 ![Language](https://img.shields.io/badge/language-C-blue)
-![Problems Solved](https://img.shields.io/badge/solved-40-brightgreen)
-![Topics](https://img.shields.io/badge/topics-3-orange)
+![Problems Solved](https://img.shields.io/badge/solved-41-brightgreen)
+![Topics](https://img.shields.io/badge/topics-4-orange)
 
 ---
 
@@ -12,11 +12,11 @@ Topic-wise LeetCode solutions with approach notes and time/space complexity anal
 
 | Metric | Count |
 |---|---|
-| Total Solved | 40 |
-| Easy | 30 |
+| Total Solved | 41 |
+| Easy | 31 |
 | Medium | 10 |
 | Hard | 0 |
-| Topics Covered | 3 |
+| Topics Covered | 4 |
 
 ---
 
@@ -87,9 +87,12 @@ Topic-wise LeetCode solutions with approach notes and time/space complexity anal
 </details>
 
 <details>
-<summary><b>Linked Lists</b></summary>
+<summary><b>Linked Lists (1)</b></summary>
+| Problem | Difficulty | Solution |
+|---|---|---|
+| Merge two Sorted list | Easy | [Link](linkedlist/merge-two-sorted-lists) |
 
-_Coming soon_
+
 
 </details>
 
