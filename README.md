@@ -3,7 +3,7 @@
 Topic-wise LeetCode solutions with approach notes and time/space complexity analysis. Focused on patterns relevant to embedded systems and core CS fundamentals.
 
 ![Language](https://img.shields.io/badge/language-C-blue)
-![Problems Solved](https://img.shields.io/badge/solved-41-brightgreen)
+![Problems Solved](https://img.shields.io/badge/solved-43-brightgreen)
 ![Topics](https://img.shields.io/badge/topics-4-orange)
 
 ---
@@ -12,10 +12,10 @@ Topic-wise LeetCode solutions with approach notes and time/space complexity anal
 
 | Metric | Count |
 |---|---|
-| Total Solved | 41 |
+| Total Solved | 43 |
 | Easy | 31 |
 | Medium | 10 |
-| Hard | 0 |
+| Hard | 2 |
 | Topics Covered | 4 |
 
 ---
@@ -23,7 +23,7 @@ Topic-wise LeetCode solutions with approach notes and time/space complexity anal
 ## Problems by Topic
 
 <details>
-<summary><b>Bit Manipulation (24)</b></summary>
+<summary><b>Bit Manipulation (26)</b></summary>
 
 | Problem | Difficulty | Solution |
 |---|---|---|
