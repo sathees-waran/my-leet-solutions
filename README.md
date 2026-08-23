@@ -51,6 +51,8 @@ Topic-wise LeetCode solutions with approach notes and time/space complexity anal
 | Single Number III | Medium | [Link](bit-manipulation/single-number-iii) |
 | Bitwise AND of Numbers Range | Medium | [Link](bit-manipulation/bitwise-and-of-numbers-range) |
 | Divide Two Integers | Medium | [Link](bit-manipulation/divide-two-integers) |
+| Minimum Number of Flips to Convert Binary Matrix to Zero Matrix | Hard | [Link](bit-manipulation/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
+| Minimum One Bit Operations to Make Integers Zero | Hard | [Link](bit-manipulation/minimum-one-bit-operations-to-make-integers-zero) |
 
 </details>
 
