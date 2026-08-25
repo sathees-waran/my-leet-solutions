@@ -3,7 +3,7 @@
 Topic-wise LeetCode solutions with approach notes and time/space complexity analysis. Focused on patterns relevant to embedded systems and core CS fundamentals.
 
 ![Language](https://img.shields.io/badge/language-C-blue)
-![Problems Solved](https://img.shields.io/badge/solved-43-brightgreen)
+![Problems Solved](https://img.shields.io/badge/solved-44-brightgreen)
 ![Topics](https://img.shields.io/badge/topics-4-orange)
 
 ---
@@ -12,8 +12,8 @@ Topic-wise LeetCode solutions with approach notes and time/space complexity anal
 
 | Metric | Count |
 |---|---|
-| Total Solved | 43 |
-| Easy | 31 |
+| Total Solved | 44 |
+| Easy | 32 |
 | Medium | 10 |
 | Hard | 2 |
 | Topics Covered | 4 |
@@ -47,6 +47,7 @@ Topic-wise LeetCode solutions with approach notes and time/space complexity anal
 | Binary Prefix Divisible By 5 | Easy | [Link](bit-manipulation/binary-prefix-divisible-by-5) |
 | Number of Steps to Reduce a Number to Zero | Easy | [Link](bit-manipulation/number-of-steps-to-reduce-a-number-to-zero) |
 | Sort Integers by The Number of 1 Bits | Easy | [Link](bit-manipulation/sort-integers-by-the-number-of-1-bits) |
+| Count Monobit Integers | Easy | [Link](bit-manipulation/count-monobit-integers) |
 | Single Number II | Medium | [Link](bit-manipulation/single-number-ii) |
 | Single Number III | Medium | [Link](bit-manipulation/single-number-iii) |
 | Bitwise AND of Numbers Range | Medium | [Link](bit-manipulation/bitwise-and-of-numbers-range) |
