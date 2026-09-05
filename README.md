@@ -3,7 +3,7 @@
 Topic-wise LeetCode solutions with approach notes and time/space complexity analysis. Focused on patterns relevant to embedded systems and core CS fundamentals.
 
 ![Language](https://img.shields.io/badge/language-C-blue)
-![Problems Solved](https://img.shields.io/badge/solved-44-brightgreen)
+![Problems Solved](https://img.shields.io/badge/solved-46-brightgreen)
 ![Topics](https://img.shields.io/badge/topics-4-orange)
 
 ---
@@ -12,8 +12,8 @@ Topic-wise LeetCode solutions with approach notes and time/space complexity anal
 
 | Metric | Count |
 |---|---|
-| Total Solved | 44 |
-| Easy | 32 |
+| Total Solved | 46 |
+| Easy | 34 |
 | Medium | 10 |
 | Hard | 2 |
 | Topics Covered | 4 |
@@ -23,7 +23,7 @@ Topic-wise LeetCode solutions with approach notes and time/space complexity anal
 ## Problems by Topic
 
 <details>
-<summary><b>Bit Manipulation (26)</b></summary>
+<summary><b>Bit Manipulation (28)</b></summary>
 
 | Problem | Difficulty | Solution |
 |---|---|---|
@@ -48,6 +48,8 @@ Topic-wise LeetCode solutions with approach notes and time/space complexity anal
 | Number of Steps to Reduce a Number to Zero | Easy | [Link](bit-manipulation/number-of-steps-to-reduce-a-number-to-zero) |
 | Sort Integers by The Number of 1 Bits | Easy | [Link](bit-manipulation/sort-integers-by-the-number-of-1-bits) |
 | Count Monobit Integers | Easy | [Link](bit-manipulation/count-monobit-integers) |
+| Sum of Values at Indices With K Set Bits | Easy | [Link](bit-manipulation/sum-indices-with-k-set-bits) |
+| Sum of All Subset XOR Totals | Easy | [Link](bit-manipulation/subset-xor-sum) |
 | Single Number II | Medium | [Link](bit-manipulation/single-number-ii) |
 | Single Number III | Medium | [Link](bit-manipulation/single-number-iii) |
 | Bitwise AND of Numbers Range | Medium | [Link](bit-manipulation/bitwise-and-of-numbers-range) |
