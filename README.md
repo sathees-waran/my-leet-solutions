@@ -35,7 +35,7 @@ Topic-wise LeetCode solutions with approach notes and time/space complexity anal
 | Number of 1 Bits | Easy | [Link](bit-manipulation/number-of-1-bits) | ✅ |
 | Hamming Distance | Easy | [Link](bit-manipulation/hamming-distance) | ✅ |
 | Number Complement | Easy | [Link](bit-manipulation/number-complement) | ✅ |
-| Missing Number | Easy | [Link](bit-manipulation/missing-number) |
+| Missing Number | Easy | [Link](bit-manipulation/missing-number) | ✅ |
 | Counting Bits | Easy | [Link](bit-manipulation/counting-bits) |
 | Find the Difference | Easy | [Link](string/find-the-difference) |
 | Convert a Number to Hexadecimal | Easy | [Link](bit-manipulation/convert-a-number-to-hexadecimal) |
