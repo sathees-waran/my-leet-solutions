@@ -34,7 +34,7 @@ Topic-wise LeetCode solutions with approach notes and time/space complexity anal
 | Power of Four | Easy | [Link](bit-manipulation/power-of-four) | ✅ |
 | Number of 1 Bits | Easy | [Link](bit-manipulation/number-of-1-bits) | ✅ |
 | Hamming Distance | Easy | [Link](bit-manipulation/hamming-distance) | ✅ |
-| Number Complement | Easy | [Link](bit-manipulation/number-complement) | 
+| Number Complement | Easy | [Link](bit-manipulation/number-complement) | ✅ |
 | Missing Number | Easy | [Link](bit-manipulation/missing-number) |
 | Counting Bits | Easy | [Link](bit-manipulation/counting-bits) |
 | Find the Difference | Easy | [Link](string/find-the-difference) |
