@@ -12,16 +12,11 @@ Output: 2
 Explanation: 5 is "101" in binary and its complement is "010" which is 2.
 
 ## Approach
+1. Shift the bits by power of 2 numbers
+2. After shifting we get a mask then XORing input with mask gives the expected output
 
-*Scan bits from the highest position down, skip leading zeros beyond the number's actual bit-width, and flip only the meaningful bits.*
-
-1. Initialize `ans = 0` and a flag `started = 0` to track when the first set bit (the highest bit of `num`) has been encountered.
-2. Iterate `i` from 31 down to 0, examining bit `i` of `num` each time.
-3. Once a set bit is found, set `started = 1` so leading zero bits outside the actual bit-width are ignored.
-4. After `started` becomes true, shift `ans` left by 1 and OR in the flipped value of the current bit using `!((num >> i) & 1)`.
-5. Return `ans`, which holds the complement built only from the relevant bits.
 
 ## Complexity
 
-- **Time Complexity:** O(1) — the loop always runs a fixed 32 iterations regardless of input size.
-- **Space Complexity:** O(1) — only a fixed number of integer variables are used.
+- **Time Complexity:** O(1) 
+- **Space Complexity:** O(1)
