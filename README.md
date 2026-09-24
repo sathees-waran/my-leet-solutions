@@ -3,8 +3,8 @@
 Topic-wise LeetCode solutions with approach notes and time/space complexity analysis. Focused on patterns relevant to embedded systems and core CS fundamentals.
 
 ![Language](https://img.shields.io/badge/language-C-blue)
-![Problems Solved](https://img.shields.io/badge/solved-46-brightgreen)
-![Topics](https://img.shields.io/badge/topics-4-orange)
+![Problems Solved](https://img.shields.io/badge/solved-49-brightgreen)
+![Topics](https://img.shields.io/badge/topics-5-orange)
 
 ---
 
@@ -12,11 +12,11 @@ Topic-wise LeetCode solutions with approach notes and time/space complexity anal
 
 | Metric | Count |
 |---|---|
-| Total Solved | 46 |
-| Easy | 34 |
-| Medium | 10 |
+| Total Solved | 49 |
+| Easy | 36 |
+| Medium | 11 |
 | Hard | 2 |
-| Topics Covered | 4 |
+| Topics Covered | 5 |
 
 ---
 
@@ -123,9 +123,14 @@ _Coming soon_
 </details>
 
 <details>
-<summary><b>Trees</b></summary>
+<summary><b>Trees (3)</b></summary>
+  
+| Problem | Difficulty | Solution |
+|---|---|---|
+| Search in a Binary Search Tree | Easy | [Link](binary-search-tree/search-in-a-binary-search-tree) |
+| Insert into a Binary Search Tree | Medium | [Link](binary-search-tree/insert-into-a-binary-search-tree) |
+| Convert Sorted Array to Binary Search Tree | Easy | [Link](binary-search-tree/convert-sorted-array-to-binary-search-tree) |
 
-_Coming soon_
 
 </details>
 
